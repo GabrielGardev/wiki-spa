@@ -1,7 +1,7 @@
 {
-  "name": "exam",
+  "name": "wiki-spa",
   "version": "1.0.0",
-  "description": "This is solution for softuni exam",
+  "description": "Simple Single Page Application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
