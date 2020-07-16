@@ -1,2 +1,2 @@
 # wiki-spa
-Simple SPA using html, css, Node.js and Handlebars
+Simple SPA using Node.js, Handlebars, HTML5, CSS and FireBase 
